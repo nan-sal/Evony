@@ -1,4 +1,4 @@
-한국어 | [日本語](001_PvP_Alliance_Matching_Rules_on_the Battlegrounds__jp.md)
+한국어 | [日本語](001_PvP_Alliance_Matching_Rules_on_the_Battlegrounds__jp.md)
 
 ---
 
