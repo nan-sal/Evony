@@ -1,4 +1,4 @@
-한국어 | [日本語](001_戦場における対戦相手の同盟マッチング)
+한국어 | [日本語](001_PvP_Alliance_Matching_Rules_on_the Battlegrounds__jp.md)
 
 ---
 

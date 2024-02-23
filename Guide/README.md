@@ -11,5 +11,5 @@
 
 ## 나의 (Nan Sal) 느낀점
 
-* [전장에서의 대전상대 동맹 매칭 규칙 - 戦場における対戦相手の同盟マッチング](Nan-sal/001_전장에서의_대전상대_동맹_매칭.md)
+* [전장에서의 대전상대 동맹 매칭 규칙 - 戦場における対戦相手の同盟マッチング](Nan-sal/001_PvP_Alliance_Matching_Rules_on_the Battlegrounds__kr.md)
 

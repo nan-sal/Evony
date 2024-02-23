@@ -1,4 +1,4 @@
-[**한국어**](001_전장에서의_대전상대_동맹_매칭.md) | 日本語
+[**한국어**](001_PvP_Alliance_Matching_Rules_on_the Battlegrounds__kr.md) | 日本語
 
 ---
 
