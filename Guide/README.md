@@ -6,3 +6,10 @@
 
 ## Ridik의 가이드
 * [자원 수집 가이드 - Guide de collecte de ressources](Ridik/001_Guide_de_collecte_de_ressources.md)
+
+
+
+## 나의 (Nan Sal) 느낀점
+
+* [전장에서의 대전상대 동맹 매칭 규칙 - 戦場における対戦相手の同盟マッチング](Nan-sal/001_전장에서의_대전상대_동맹_매칭.md)
+
