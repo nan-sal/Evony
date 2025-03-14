@@ -13,10 +13,11 @@
      * I have completed 10 stars for Empress Dowager Cixi and Nero, and am now working on Jackson.
 
 2. **Achieve at least 2.25M points in each SvS to collect the 5th specialization fragment.**
-   * 💡 When you cross over to the enemy server, you have a basic 5-minute shield. During this time, it's not difficult to achieve 2.25M points by hunting level 10-12 monsters.
+   * 💡 When you cross over to the enemy server, you have a default 5-minute shield. During this time, it's not difficult to achieve 2.25M points by hunting level 10-12 monsters.
+     * ✨ However, the default 5-minute shield is immediately removed the moment you scout or attack. It remains active when hunting monsters, visiting the Ares statue, or visiting the Fire Sprit.
    * 💡 Complete the 1st to 3rd specializations for the main and assistant defense generals, so that you can attach the 5th specialization, "Field Testing," which boosts total troop attack by +500 x 2 and helps the T1 cavalry flats.
    * ✨ Although many subordinates cities are unoccupied, some may have troops. You can score points by attacking those with troops.
-
+   
 3. **Organize Favorites**
    * Delete all unnecessary favorites and mark enemy alliance cities as favorites the day before or on the day of SvS.
    * Mark a return point as a favorite before crossing over to the enemy server.
