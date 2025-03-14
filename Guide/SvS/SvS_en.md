@@ -41,7 +41,7 @@
      * In my case, the attacks from K41 users are manageable, but the solo attacks from K42 and above users are slightly challenging.
    * Always avoid rallies.
    * 💡 When attacking empty castles or subordinate cities, make sure not to take subordinate cities with you.
-     * If you are attacked while attacking an empty castle, subordinate city generals will be out attacking, so you won't be able to use debuffs.
+     * When attacking an empty castle, if an enemy attacks your main city, the generals of the subordinate city are out attacking, so you can't utilize debuffs when defending the main city.
 
 7. **Offensive Battles**
    * My offensive strength isn't great, so I don't have much to say... 😅 However, remember that while there are many strong users on the enemy server, there are also many weaker ones. Be prepared to quickly cross over and attack when you see a vulnerable, unbubbled user. 😅
