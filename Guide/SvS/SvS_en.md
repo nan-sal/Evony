@@ -1,4 +1,4 @@
-[한국어](SvS_ko.md) | English| [日本語](SvS_ja.md)
+[한국어](SvS_ko.md) | English | [日本語](SvS_ja.md)
 
 ---
 
