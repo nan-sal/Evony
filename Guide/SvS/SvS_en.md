@@ -11,12 +11,12 @@
    * Equip all subordinate city generals with beasts that have debuff abilities.
    * In my case, I am prioritizing raising the red-star subordinate city generals.
      * I have completed 10 stars for Empress Dowager Cixi and Nero, and am now working on Jackson.
-   
+
 2. **Achieve at least 2.25M points in each SvS to collect the 5th specialization fragment.**
    * 💡 When you cross over to the enemy server, you have a basic 5-minute shield. During this time, it's not difficult to achieve 2.25M points by hunting level 10-12 monsters.
    * 💡 Complete the 1st to 3rd specializations for the main and assistant defense generals, so that you can attach the 5th specialization, "Field Testing," which boosts total troop attack by +500 x 2 and helps the T1 cavalry flats.
    * ✨ Although many subordinates cities are unoccupied, some may have troops. You can score points by attacking those with troops.
-   
+
 3. **Organize Favorites**
    * Delete all unnecessary favorites and mark enemy alliance cities as favorites the day before or on the day of SvS.
    * Mark a return point as a favorite before crossing over to the enemy server.
@@ -29,14 +29,16 @@
      * The advantage of the hospital is that you can selectively revive troops.👍
      * With Source of Life, the order of revival is fixed 🥲 and you may have to revive high-tier troops even if you don't want to yet.
      * If you can't revive troops in time with the Source of Life, they will disappear, but consider that troops in the hospital can be revived with resources even after SvS ends.
-   
+
 5. **Use the Bunker**
    * At Lv37, with a Super Officer, the bunker can protect 740,000 troops.
    * Troops in the bunker are protected for 12 hours. Renew this protection every 12 hours.
    * It's advisable to place high-tier cavalry in the bunker.
-   
+
 6. **Defense Battles**
    * When attacking empty castles or subordinate cities, you may be deliberately targeted by users... If the user is not rallying and is reasonable, let them hit you once, and quickly warp back to your server to use a shield.
+   * For determining a suitable user to defend, it's a good idea to experience solo defense multiple times on the battlefield and judge how many keeps an attacker would need to defend against.
+     * In my case, the attacks from K41 users are manageable, but the solo attacks from K42 and above users are slightly challenging.
    * Always avoid rallies.
    * 💡 When attacking empty castles or subordinate cities, make sure not to take subordinate cities with you.
      * If you are attacked while attacking an empty castle, subordinate city generals will be out attacking, so you won't be able to use debuffs.
