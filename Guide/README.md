@@ -13,5 +13,9 @@
 
 * [전장에서의 대전상대 동맹 매칭 규칙 - 戦場における対戦相手の同盟マッチング](Nan-sal/001_PvP_Alliance_Matching_Rules_on_the_Battlegrounds__kr.md)
 
+## SvS 가이드
+
+* [T1 플랫 방어 기준의 가이드](SvS)
+
 
 
