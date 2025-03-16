@@ -48,7 +48,7 @@
    * My offensive strength isn't great, so I don't have much to say... 😅 However, remember that while there are many strong users on the enemy server, there are also many weaker ones. Be prepared to quickly cross over and attack when you see a vulnerable, unbubbled user. 😅
    * During the weekend, while checking your marked enemy server alliance cities, you may find unbubbled users. Quickly attack them and warp back to our server to use a shield.
 
-8. **Best Time to Gain SvS Points**
+8. **The Best Time to Get SvS Wings**
    * When the Chalons battle is ongoing, up to 10 SvS Wings rewards are given... this seems to be the best time.
    * Even top 1 alliance users don't seem to fight hard during Chalons battle periods.
 
